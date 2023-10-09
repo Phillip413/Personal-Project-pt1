@@ -71,6 +71,11 @@ p {
   margin-left: 20px;
 }
 
+/* About HTML */
+.aboutme {
+  margin-left:20px;
+}
+
 .aboutme h3 {
   font-size:25px;
 }
@@ -80,6 +85,7 @@ p {
   margin: -5px 30px 0px 10px;
 }
 
+/* Home HTML */
 .verse {
   font-style: italic;
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -88,6 +94,17 @@ p {
   text-align: center;
 }
 
+/* Portfolio HTML */
+.portfolio {
+  margin-left: 20px;
+}
+
+.portfolio h3 {
+  font: size 25px;
+}
+.portfolio p{
+  font-size: 15px;
+}
 
 footer {
   width: 100vw;
