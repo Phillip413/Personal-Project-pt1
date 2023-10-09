@@ -71,18 +71,23 @@ p {
   margin-left: 20px;
 }
 
-.verse {
-  font-style: italic;
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+.aboutme h3 {
+  font-size:25px;
 }
 
-h3 {
-  /* display: block; */
+.aboutme img {
+  height: 200px;
+  margin: -5px 30px 0px 10px;
+}
+
+.verse {
+  font-style: italic;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-size:35px;
   margin-block-start: 8.5em;
   text-align: center;
-  
 }
+
 
 footer {
   width: 100vw;
